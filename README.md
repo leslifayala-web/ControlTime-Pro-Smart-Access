@@ -42,3 +42,7 @@ Desarrollar un sistema automatizado que permita controlar el ingreso de los maes
 ## Estado del proyecto
 
 En desarrollo
+
+## Simulación en Tinkercad
+
+Enlace:
