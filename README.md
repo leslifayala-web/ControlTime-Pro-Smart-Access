@@ -46,3 +46,4 @@ En desarrollo
 ## Simulación en Tinkercad
 
 Enlace:
+https://www.tinkercad.com/things/2BxwdTdQFc1-copy-of-proyecto/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=sA-zm33T4hUhF6Sxr5wIrwu7o65KhcQ9BmoccBYQ9SQ
