@@ -188,7 +188,7 @@ El funcionamiento del sistema sigue los siguientes pasos:
 |-|-|-|-|
 | LCD no mostraba información | Pines incorrectos | Se revisaron conexiones | Solucionado |
 | Servo no funcionaba | Error en programación del ángulo | Se modificó el código | Solucionado |
-| LED no encendía | Polaridad incorrecta | Se invirtió conexión | Solucionado |
+| LED no encendía | Pines incorrectos| Se invirtió conexión | Solucionado |
 
 # Conclusiones
 
