@@ -49,6 +49,15 @@ El código incluye:
 - Lectura de sensores.
 - Control de actuadores.
 
+# Problemas encontrados
+
+Durante el desarrollo se presentaron algunos inconvenientes relacionados con las conexiones del circuito y con la programación de algunos componentes, lo que provocó que el sistema no respondiera correctamente en las primeras pruebas.
+
+# Soluciones implementadas
+
+Para solucionar estos inconvenientes se revisó el cableado del circuito, se corrigieron errores en el código y se realizaron nuevas pruebas hasta lograr el funcionamiento esperado de la simulación.
+
+
 ## Descripción de componentes
 
 | Componente | Función |
