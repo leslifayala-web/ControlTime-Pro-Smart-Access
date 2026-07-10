@@ -69,3 +69,9 @@ Se obtuvo una simulación funcional en Tinkercad que permite comprobar el correc
 - Integración de todos los componentes reales.
 - Realización de pruebas finales.
 - Implementación de mejoras en el sistema.
+
+## Simulación en Tinkercad
+
+Enlace:
+https://www.tinkercad.com/things/2BxwdTdQFc1-copy-of-proyecto/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=sA-zm33T4hUhF6Sxr5wIrwu7o65KhcQ9BmoccBYQ9SQ
+
