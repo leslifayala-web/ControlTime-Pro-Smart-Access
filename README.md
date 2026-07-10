@@ -36,6 +36,19 @@ Proyecto de control de acceso y asistencia de maestros utilizando Arduino.
 
 El circuito fue diseñado en la plataforma Tinkercad utilizando Arduino Uno como controlador principal. Los componentes fueron conectados para permitir la lectura del teclado, mostrar información en la pantalla LCD y controlar el movimiento del servo motor.
 
+# Programación
+
+La programación fue desarrollada en lenguaje C++ para Arduino.
+
+El código incluye:
+
+- Declaración de variables.
+- Configuración de entradas y salidas.
+- Función `setup()`.
+- Función `loop()`.
+- Lectura de sensores.
+- Control de actuadores.
+
 ## Descripción de componentes
 
 | Componente | Función |
