@@ -57,6 +57,10 @@ Durante el desarrollo se presentaron algunos inconvenientes relacionados con las
 
 Para solucionar estos inconvenientes se revisó el cableado del circuito, se corrigieron errores en el código y se realizaron nuevas pruebas hasta lograr el funcionamiento esperado de la simulación.
 
+# Resultado obtenido
+
+Se obtuvo una simulación funcional en Tinkercad que permite comprobar el correcto funcionamiento del sistema antes de construir el prototipo físico.
+
 
 ## Descripción de componentes
 
