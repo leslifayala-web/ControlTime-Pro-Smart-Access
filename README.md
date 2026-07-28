@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="imagenes/banner.png" alt="ControlTime Pro Smart Access" width="100%">
+</p>
+
 # ControlTime-Pro-Smart-Access
 Proyecto de control de acceso y asistencia de maestros utilizando Arduino.
 
