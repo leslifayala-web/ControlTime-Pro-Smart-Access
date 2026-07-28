@@ -170,6 +170,10 @@ https://www.tinkercad.com/things/2BxwdTdQFc1-copy-of-proyecto/editel?returnTo=ht
 
 #  Avances de la Etapa 3
 
+Durante el desarrollo de ControlTime Pro Smart Access se han realizado diferentes avances con el objetivo de crear un sistema que permita mejorar el control de asistencia de los docentes mediante el uso de tecnología.
+
+En esta etapa se trabajó principalmente en la creación de la aplicación móvil, donde se diseñaron las pantallas necesarias para que los usuarios puedan interactuar con el sistema de una manera más sencilla. También se inició el proceso de programación de las funciones principales, permitiendo avanzar en la estructura del funcionamiento de la aplicación.
+
 Durante esta etapa se trabajó en el desarrollo de la aplicación móvil, implementando nuevas funciones y realizando diferentes pruebas para mejorar su funcionamiento.
 
 Entre los principales avances se encuentran:
@@ -180,6 +184,24 @@ Entre los principales avances se encuentran:
 - Conexión con una hoja de cálculo para validar usuarios.
 - Corrección de errores encontrados durante las pruebas.
 - Actualización de la documentación y del repositorio.
+
+## Desarrollo de la interfaz
+
+Se realizó la creación de la interfaz gráfica en App Inventor, organizando los diferentes elementos visuales como botones, campos de información y pantallas de navegación. Se buscó crear un diseño sencillo y fácil de comprender para que los usuarios puedan utilizar la aplicación sin dificultades.
+
+Durante este proceso se realizaron cambios en la distribución de los elementos y pruebas de visualización para mejorar la apariencia y funcionamiento de la aplicación.
+
+## Función de inicio de sesión
+
+Una de las funciones implementadas fue el inicio de sesión de usuarios. Para realizar esta función se utilizó una hoja de cálculo como almacenamiento de información, donde se guardan los datos necesarios para realizar la validación de los usuarios.
+
+Durante el desarrollo de esta función se realizaron diferentes pruebas para solucionar problemas relacionados con la conexión entre App Inventor y la hoja de cálculo, logrando mejorar el proceso de lectura y verificación de datos.
+
+## Pruebas realizadas
+
+Se realizaron pruebas del funcionamiento de la aplicación para comprobar que las pantallas, botones y funciones programadas respondieran correctamente. Estas pruebas permitieron encontrar errores y realizar ajustes necesarios para mejorar el funcionamiento general del sistema.
+
+También se verificó la comunicación entre la aplicación y la base de datos utilizada para el registro de usuarios.
 
 #  Funcionalidades implementadas
 
@@ -193,10 +215,10 @@ En esta etapa se desarrollaron las siguientes funciones:
 
 #  Tecnologías utilizadas
 
-- MIT App Inventor
+- MIT App Inventor:Utilizado para el diseño y programación de la aplicación móvil.
 - Arduino UNO
-- Google Sheets
-- GitHub
+- Google Sheets: Utilizada como almacenamiento de datos para los usuarios.
+- GitHub: Organización y documentación del proyecto
 
 #  Próxima etapa
 
