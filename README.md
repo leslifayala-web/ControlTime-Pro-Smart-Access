@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ImagenBanner/Banner.png.png" width="100%" height="350">
+  <img src="ImagenBanner/Banner.png.png" width="100%" height="335">
 </p>
 
 # ControlTime-Pro-Smart-Access
