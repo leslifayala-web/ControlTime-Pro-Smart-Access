@@ -163,3 +163,38 @@ El funcionamiento del sistema sigue los siguientes pasos:
 
 Enlace:
 https://www.tinkercad.com/things/2BxwdTdQFc1-copy-of-proyecto/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=sA-zm33T4hUhF6Sxr5wIrwu7o65KhcQ9BmoccBYQ9SQ
+
+#  Avances de la Etapa 3
+
+Durante esta etapa se trabajó en el desarrollo de la aplicación móvil, implementando nuevas funciones y realizando diferentes pruebas para mejorar su funcionamiento.
+
+Entre los principales avances se encuentran:
+
+- Diseño y organización de la aplicación móvil.
+- Programación mediante bloques en MIT App Inventor.
+- Implementación del inicio de sesión.
+- Conexión con una hoja de cálculo para validar usuarios.
+- Corrección de errores encontrados durante las pruebas.
+- Actualización de la documentación y del repositorio.
+
+#  Funcionalidades implementadas
+
+En esta etapa se desarrollaron las siguientes funciones:
+
+- Inicio de sesión de usuarios.
+- Validación de usuarios mediante hoja de cálculo.
+- Navegación entre las diferentes pantallas de la aplicación.
+- Programación de eventos mediante bloques.
+- Organización de la estructura de la aplicación para facilitar futuras implementaciones.
+
+#  Tecnologías utilizadas
+
+- MIT App Inventor
+- Arduino UNO
+- Google Sheets
+- GitHub
+
+#  Próxima etapa
+
+En la siguiente etapa se realizará la integración del prototipo físico utilizando Arduino y los diferentes componentes electrónicos del proyecto. Además, se efectuarán pruebas para comprobar la comunicación entre el hardware y la aplicación móvil, realizando los ajustes necesarios para mejorar el funcionamiento general del sistema.
+
